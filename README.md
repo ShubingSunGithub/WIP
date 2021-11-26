@@ -11,10 +11,6 @@ just a neat little app showing box and stuff
 
 <h1>My First Heading</h1>
 <p>My first paragraph.</p>
-<style>
-div {
-  background-image: url('backdrop/backdrop1.png');
-}
-</style>
+<div style="background-image: url('backdrop/backdrop1.png');">
 </body>
 </html>
