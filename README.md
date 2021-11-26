@@ -13,7 +13,7 @@ just a neat little app showing box and stuff
 <p>My first paragraph.</p>
 <style>
 div {
-  background-image: url('(backdrop/backdrop1.png');
+  background-image: url('backdrop/backdrop1.png');
 }
 </style>
 </body>
